@@ -1,0 +1,9 @@
+/node_modules
+/build
+/refprop
+.DS_Store
+.vscode
+*.log
+*.node
+*.FLD
+*.MIX
