@@ -1,5 +1,7 @@
 # node module for REFPROP shared library
 
+<img src="https://user-images.githubusercontent.com/34432835/152092436-00311527-c4c0-43de-bb91-edb0529ac0ea.png" height="320">
+
 ## How do I get shared library?
 
 By running `npm run setup`, node-refprop-napi.node file is compiled.
@@ -44,3 +46,4 @@ exit
 # References
 - Inspired by work of [EvilDrW](https://github.com/EvilDrW/node-refprop), nodejs module for working with NIST refprop.
 - [REFPROP-cmake](https://github.com/usnistgov/REFPROP-cmake) offered CMake build system for shared library.
+- [REFPROP-headers](https://github.com/CoolProp/REFPROP-headers) offered REFPROP header file.
