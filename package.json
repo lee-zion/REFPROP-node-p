@@ -1,11 +1,11 @@
 {
-  "name": "basic-node-addon",
+  "name": "REFPROP-node-p",
   "version": "1.0.0",
-  "author": "zion lee",
+  "author": "lee-zion",
   "repository": {
-    "url": "https://github.com/lee-zion/refpropNapi.git"
+    "url": "https://github.com/lee-zion/REFPROP-node-p.git"
   },
-  "description": "natvie node in node-addon-api for NIST REFPROP",
+  "description": "native node in node-addon-api for NIST REFPROP",
   "main": "index.js",
   "gypfile": true,
   "scripts": {
